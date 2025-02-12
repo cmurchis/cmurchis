@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oh hi... I'm Carrie! 💅
 
-<!--
-**cmurchis/cmurchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My journey in web development began in the unlikeliest of places – behind bars. Incarceration stripped away pieces of my spirit, but through the challenge of learning web development, I found a path to rebuild myself. Education became my beacon of hope, revealing the transformative power it held.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning 🐍 Python in [Next Chapter's Pilot Bootcamp](nextchapterproject.org)
+- Looking for work in the following areas (after I complete the above of course) 🎓
+  - Any cause, with a strong connection for justice reform and/or support for justice impacted people 💙
+  - Software testing ☑️
+  - ANYTHING involving data 🤓
+  - Web develelopment 💻
+ 
+
+<img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
